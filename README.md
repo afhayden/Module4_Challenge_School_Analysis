@@ -46,4 +46,5 @@ Tables presenting each of the following metrics:
 ### School Performance and School School Type Analysis
 ![Summary of School Scores and School Type](Resources/Scores_Type.PNG)
 
+## Final Conclusion Statement
 
