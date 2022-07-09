@@ -18,6 +18,32 @@ Tables presenting each of the following metrics:
 - Data Source: schools_complete.csv, students_complete.csv
 - Software: Python 3.9.12, Jupyterlab 3.3.2, Pandas 1.4.2, Numpy 1.21.5
 
-## Summary of School District Analysis
+## Summary of Results
+### Summary of School District Analysis
 ![Summary of PyCity School District Statistics](Resources/School_District_Stats_Summary.PNG)
+
+### Performance Summary by School Name
+![Summary by School Name](Resources/Summary_by_School_Name.PNG)
+
+### Top Five (5) Performing Schools
+![Summary of Top Five Schools](Resources/Summary_Top_Five.PNG)
+
+### Lowest Five (5) Performing Schools
+![Summary of Top Low Schools](Resources/Summary_Low_Five.PNG)
+
+### Math and Reading Scores by Grade Level
+![Math and Reading by Grade](Resources/Math_Reading_Grade.PNG)
+
+### School Performance and School Spending Analysis
+![Summary of School Scores and Spending](Resources/Scores_Spending.PNG)
+
+### School Performance and School Size Analysis
+![Summary of School Scores and Size](Resources/Scores_Size.PNG)
+
+### School Performance and School School Type Analysis
+![Summary of School Scores and School Type](Resources/Scores_Type.PNG)
+
+### School Performance and School School Type Analysis
+![Summary of School Scores and School Type](Resources/Scores_Type.PNG)
+
 
