@@ -19,4 +19,5 @@ Tables presenting each of the following metrics:
 - Software: Python 3.9.12, Jupyterlab 3.3.2, Pandas 1.4.2, Numpy 1.21.5
 
 ## Summary of School District Analysis
+![Summary of PyCity School District Statistics](Resources/School_District_Stats_Summary.PNG)
 
