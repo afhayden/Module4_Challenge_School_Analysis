@@ -20,18 +20,29 @@ Tables presenting each of the following metrics:
 
 ## Summary of Results
 ### Summary of School District Analysis
+#### Prior to Removing 9th Grade Test Scores from Thomas High School
+There were 39,170 students included in the school district summary.
+![Previous Summary of PyCity School District Statistics](Resources/School_District_Stats_Summary_Previous.PNG)
+
+#### Summary After Removal of Students
+There 461 student test scores (reading and math) were removed from the aggregation. The 1.2% difference in the district populate barely made a difference on the test scores.
 ![Summary of PyCity School District Statistics](Resources/School_District_Stats_Summary.PNG)
 
 ### Performance Summary by School Name
 ![Summary by School Name](Resources/Summary_by_School_Name.PNG)
 
+The removal of 461 students from Thomas High did not have a significant impact on the average school performance. Below is the original performance summary that includes all students.
+![Original Thomas High School Performance](Resources/Thomas_Performance.PNG)
+
 ### Top Five (5) Performing Schools
+Thomas High School was in the original top five schools and remains there even without 461 9th grade scores.
 ![Summary of Top Five Schools](Resources/Summary_Top_Five.PNG)
 
 ### Lowest Five (5) Performing Schools
 ![Summary of Top Low Schools](Resources/Summary_Low_Five.PNG)
 
 ### Math and Reading Scores by Grade Level
+Thomas High School scores for 9th grade math and reading were marked 0.0 because there were excluded.
 ![Math and Reading by Grade](Resources/Math_Reading_Grade.PNG)
 
 ### School Performance and School Spending Analysis
