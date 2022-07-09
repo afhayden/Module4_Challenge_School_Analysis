@@ -46,13 +46,16 @@ Thomas High School scores for 9th grade math and reading were marked 0.0 because
 ![Math and Reading by Grade](Resources/Math_Reading_Grade.PNG)
 
 ### School Performance and School Spending Analysis
+There is noticeable affect on the school spending analysis metrics compared to previous metrics.
 ![Summary of School Scores and Spending](Resources/Scores_Spending.PNG)
 
 ### School Performance and School Size Analysis
+There is noticeable affect on the school performance and school size analysis metrics compared to previous metrics.
 ![Summary of School Scores and Size](Resources/Scores_Size.PNG)
 
 ### School Performance and School School Type Analysis
+There is noticeable affect on the school school performance vs. school type analysis metrics compared to previous metrics.
 ![Summary of School Scores and School Type](Resources/Scores_Type.PNG)
 
 ## Final Conclusion Statement
-
+THe 1.2% change in student population made a less than 1% difference in Thomas High Schools testing score metrics, and an even smaller impact on the overall metics oc the school district. Thomas High School remains in the top five performing schools.
